@@ -1,0 +1,19 @@
+.tab-btn {
+  background-color: transparent;
+  border-width: 0px;
+  color: #ffffff;
+  font-size: 14px;
+  font-family: Roboto;
+  font-weight: 500;
+}
+.active-tab-btn {
+  color: #fec653;
+}
+hr {
+  border: 1px solid #fec653;
+  margin-bottom: 0px;
+  margin-top: 1px;
+}
+button {
+  cursor: pointer;
+}
